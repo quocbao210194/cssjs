@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://chyakicosmetic.com/' target='_blank'><img src='https://1.bp.blogspot.com/-no3Wy-bjXHM/WNEflUu1tFI/AAAAAAAABFY/IMJYFZt86-s9GswTcBO9VgRd9QZw7FzkACPcB/s1600/2.png' width='500px'/><br/>13 Mỹ Phẩm Nhật Chính Hãng </a>. ChyAki. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://chyakicosmetic.com/' target='_blank'><img src='https://1.bp.blogspot.com/-no3Wy-bjXHM/WNEflUu1tFI/AAAAAAAABFY/IMJYFZt86-s9GswTcBO9VgRd9QZw7FzkACPcB/s1600/2.png' width='500px'/><br/> Mỹ Phẩm Nhật Chính Hãng </a> CHYAKI <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
