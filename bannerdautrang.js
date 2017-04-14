@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://chyakicosmetic.com/' target='_blank'><img src='https://1.bp.blogspot.com/-no3Wy-bjXHM/WNEflUu1tFI/AAAAAAAABFY/IMJYFZt86-s9GswTcBO9VgRd9QZw7FzkACPcB/s1600/2.png' width='500px'/><br/> Mỹ Phẩm Nhật Chính Hãng </a> CHYAKI <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://zanta.vn/' target='_blank'><img src='https://1.bp.blogspot.com/-IgnWlpsuJAo/WPD6pGjHVMI/AAAAAAAABGo/bR1jITtlTnsP1sK9p5c5TZvQ_a6IziTKgCLcB/s1600/M%25E1%25BB%25B9%2BPh%25E1%25BA%25A9m%2BNh%25E1%25BA%25ADt%2BCh%25C3%25ADnh%2BH%25C3%25A3ng%2Bqu%25E1%25BA%25ADn%2B1.png' width='500px'/><br/> Mỹ Phẩm Nhật Chính Hãng </a> KS-OC <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
