@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://chyakicosmetic.com/';
+	var url_popup = 'http://zanta.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://chyakicosmetic.com/';
+	  // var url_ppp = 'http://zanta.vn/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
